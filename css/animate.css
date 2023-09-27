@@ -1293,6 +1293,7 @@ Copyright (c) 2014 Daniel Eden
 .fadeInUp {
   -webkit-animation-name: fadeInUp;
           animation-name: fadeInUp;
+          z-index: 0;
 }
 
 @-webkit-keyframes fadeInUpBig {
