@@ -631,7 +631,7 @@ footer {
 .main-about,
 .main-service, .main-contact,
 .main-work {
-    height: 70vh;
+    height: 40vh;
     text-align: center;
 }
 
@@ -651,7 +651,7 @@ footer {
     -webkit-align-items: center;
     -ms-flex-align: center;
      align-items: center;
-    height: 56vh;
+    height: 30vh;
     position: relative;
 }
 
@@ -1012,8 +1012,8 @@ footer {
 -----------------------------------------*/
 
 footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 footer .footer-link ul {
@@ -1025,7 +1025,7 @@ footer .footer-link ul {
 footer .footer-link ul li {
   list-style: none;
   display: inline-block;
-  padding: 22px;
+  padding: 1-px;
 }
 
 footer .footer-link ul li a {
@@ -1039,7 +1039,7 @@ footer .footer-link ul li a:hover {
 }
 
 footer .footer-copyright {
-  padding-top: 16px;
+  padding-top: 10px;
 }
 
 footer .footer-copyright p {
